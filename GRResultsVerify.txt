@@ -1,0 +1,40 @@
+1. GRTestMPCA: command window output
+
+Processing USFGait17_32x22x10/
+Training on gallery
+Testing PrbA
+Testing PrbB
+Testing PrbC
+Testing PrbD
+Testing PrbE
+Testing PrbF
+Testing PrbG
+Rank 1 identification rate for Probe A to G
+    0.9014    0.8293    0.7073    0.3433    0.3023    0.2090    0.2093
+
+Rank 5 identification rate for Probe A to G
+    0.9718    0.9268    0.8537    0.5672    0.4884    0.5522    0.5116
+
+Mean rank 1 identification rate=0.50027
+Mean rank 5 identification rate=0.69596
+
+----------------------------------------------------------------------
+2. GRTestMPCALDA: command window output
+
+Processing USFGait17_32x22x10/
+Training on gallery
+Testing PrbA
+Testing PrbB
+Testing PrbC
+Testing PrbD
+Testing PrbE
+Testing PrbF
+Testing PrbG
+Rank 1 identification rate for Probe A to G
+    0.9859    0.8293    0.7805    0.4030    0.3023    0.2537    0.2791
+
+Rank 5 identification rate for Probe A to G
+    1.0000    0.9268    0.8780    0.6716    0.6279    0.6119    0.6047
+
+Mean rank 1 identification rate=0.54768
+Mean rank 5 identification rate=0.76015
